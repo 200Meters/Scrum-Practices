@@ -1,1 +1,2 @@
 # Scrum-Practices
+Scrum Practices is a repository for personal notes and practices used when delivering projects using Scrum and other agile methods. It intended to go beyond the Scrum Guide by providing prescriptive guidance for the conduct of Scrum. Note that while the guidance is prescriptive, it provides only a single point of view on Scrum conduct intended for context. As a framework for product delivery, may practices can be used in the conduct of Scrum.
